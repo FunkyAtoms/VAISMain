@@ -7,6 +7,9 @@ To set up the database, you can use the provided SQL dump file. Follow these ste
    ```bash
    mysql -u root -p < path_to_your_project/VAISConnect/invoice_management_dump.sql
 
+##Before Setting up
+
+If Necessary, change any of the USER or PASSWORD in DatabaseConnection.java to fully connect to the database
 
 ## Program features:
 
