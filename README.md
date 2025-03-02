@@ -1,18 +1,8 @@
-## Getting Started
+## Database Setup
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To set up the database, you can use the provided SQL dump file. Follow these steps:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Open your MySQL command line or a MySQL client.
+2. Run the following command to execute the SQL dump file:
+   ```bash
+   mysql -u root -p < path_to_your_project/VAISConnect/invoice_management_dump.sql
