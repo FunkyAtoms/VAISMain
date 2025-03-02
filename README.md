@@ -10,7 +10,7 @@ To set up the database, you can use the provided SQL dump file. Follow these ste
 
 ## Program features:
 
-Add/View Client
+Add/View Client:
 ![image](https://github.com/user-attachments/assets/2787a701-5c79-4127-a4d6-694c17f9aeb0)
 
 
