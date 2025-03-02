@@ -22,3 +22,6 @@ Add/View Service:
 
 Invoice Creation and adding service to Invoice:
 ![image](https://github.com/user-attachments/assets/7e072532-b760-43fc-afd9-f08901bc9ace)
+
+Exiting:
+![image](https://github.com/user-attachments/assets/9fdc81e8-1f1e-4bde-9dcf-e759fab37da3)
